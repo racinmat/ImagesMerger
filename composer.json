@@ -1,0 +1,15 @@
+{
+  "name": "azathoth/imagesMerger",
+  "description": "small merging script for mff game",
+  "minimum-stability": "stable",
+  "license": "new BSD",
+  "authors": [
+    {
+      "name": "Matěj Račinský",
+      "email": "racinsky.matej@seznam.cz"
+    }
+  ],
+  "require": {
+    "nette/finder": "^2.3"
+  }
+}
